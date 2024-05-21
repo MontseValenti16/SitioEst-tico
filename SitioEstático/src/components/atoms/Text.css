@@ -1,0 +1,12 @@
+#page_text{
+    width: 80%;
+    color: black;
+    font-size: 50px;
+    margin: 0 auto;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    color: white;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

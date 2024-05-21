@@ -1,0 +1,7 @@
+#page_images{
+    width: 20%;
+    border: 1px grey solid;
+    justify-content: center;
+    align-items: space-around;
+
+}

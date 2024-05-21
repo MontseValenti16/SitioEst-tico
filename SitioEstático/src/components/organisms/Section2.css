@@ -1,0 +1,10 @@
+#page_Sec2{
+    width: 90%;
+    border: 2px solid grey;
+    justify-content: flex-start;
+    margin: 10px auto;
+    height: 1735px;
+    background-color: black;
+    box-shadow: 0 0 10px black;
+}
+

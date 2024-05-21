@@ -1,0 +1,14 @@
+#page_container{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin: 10px 0;
+    align-items: center;
+    border: 10px rgb(251, 251, 251) solid;
+    flex-direction: row;
+    
+}
+
+#page_container:hover{
+    box-shadow: 0 0 20px rgb(244, 240, 240);
+}
