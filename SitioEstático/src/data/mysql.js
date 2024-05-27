@@ -2,12 +2,12 @@ const mysql={
 
     portadas : [{
         image: 'inicio.jpeg',
-        text: 'One Direction'
+        text: 'One Direction: Zayn Malik-Niall Horan-Louis Tomlinson-Liam Payne-Harry Styles'
     }],
     
     albumes : [{
         image: '1D.jpg',
-        text: 'Álbumes'
+        text: 'Álbumes y año de lanzamiento'
     },{
         image: 'upallnight.jpeg',
         text: 'Up all night - 2011'
@@ -27,13 +27,13 @@ const mysql={
 
     canciones: [{
         image: 'best.jpg',
-        text: 'BEST SONG EVER'
+        text: 'BEST SONG EVER - 6:13'
     },{
         image: 'night.jpg',
-        text: 'NIGHT CHANGES'
+        text: 'NIGHT CHANGES - 4:01'
     }, {
         image: 'you.jpg',
-        text: 'YOU & I'
+        text: 'YOU & I - 4:05'
     }]
 }
 

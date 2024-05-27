@@ -6,6 +6,7 @@ function Card(props){
         <div id="page_card">
             <Image image= {props.image}></Image>
             <Title text= {props.text} ></Title>
+            
         </div>
         
     );
